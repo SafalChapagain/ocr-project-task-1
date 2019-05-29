@@ -1,4 +1,4 @@
-# ocr-project-task-2
+# ocr-project-task-1
 OCR Programming Project NEA
 
 
